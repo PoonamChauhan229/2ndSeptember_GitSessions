@@ -1,3 +1,6 @@
-This is my first code 
 Git hub session
-GUVI
+git clone https://github.com/PoonamChauhan229/2ndSeptember_GitSessions.git
+git add .
+git commit -m "first commit"
+git push -u origin main
+
